@@ -62,3 +62,8 @@ body {
   border: 0.1rem solid black;
   padding: 0.5rem;
 }
+.check {
+  height: 2rem;
+  width: 100%;
+  background-color: white;
+}
